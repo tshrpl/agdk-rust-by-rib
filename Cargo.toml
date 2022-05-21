@@ -7,6 +7,8 @@ members = [
 exclude = [
     "examples/agdk-mainloop",
     "examples/agdk-winit-wgpu",
+    "examples/agdk-winit-wgpu-try-1",
+    "examples/agdk-winit-wgpu-try-2",
     "examples/agdk-egui",
     "examples/na-mainloop",
     "examples/na-winit-wgpu"
