@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "co.realfit.nawinitwgpu"
+        applicationId "co.realfit.nasubclassjni"
         minSdk 28
         targetSdk 31
         versionCode 1
@@ -35,6 +35,7 @@ android {
 }
 
 dependencies {
-    
+
+
 }
 
