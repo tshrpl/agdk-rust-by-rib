@@ -12,6 +12,13 @@ winit = { git = "https://github.com/rib/winit", branch = "agdk-game-activity" }
 #winit = { path="../../../winit" }
 wgpu = "0.12.0"
 pollster = "0.2"
+cgmath = "*"
+anyhow = "*"
+
+[dependencies.image]
+version = "0.24"
+default-features = false
+features = ["png", "jpeg"]
 
 [target.'cfg(not(target_os = "android"))'.dependencies]
 # env_logger = "0.9"
