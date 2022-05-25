@@ -5,6 +5,7 @@ members = [
 ]
 
 exclude = [
+    "debugger",
     "examples/agdk-mainloop",
     "examples/agdk-winit-wgpu",
     "examples/agdk-winit-wgpu-try-1",
